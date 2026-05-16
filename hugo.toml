@@ -1,0 +1,4 @@
+baseURL = 'https://bd7owk.github.io/'
+languageCode = 'zh-CN'
+title = 'BD7OWK'
+theme = 'ananke'
