@@ -28,7 +28,7 @@ timeFormat: "2006-01-02 15:04:05"
 
 author: BD7OWK
 email: bd7owk@gmail.com
-description: "少女祈祷中..."
+description: "欢迎光～临！"
 # subtitle: "少女祈祷中..."
 subtitle:
   typing:
@@ -47,7 +47,7 @@ subtitle:
     showCursor: true            # 是否显示闪烁的字符
     cursorChar: "|"             # 字符
     smartBackspace: false       # 智能退格，只删除不同的部分
-  text: "少女祈祷中..."        # 当 typing.enable = false 时使用
+  text: "欢迎光～临！"        # 当 typing.enable = false 时使用
 
 banner: "images/banner_1920x1080.webp"
 # You can also write it in the form of the following url
