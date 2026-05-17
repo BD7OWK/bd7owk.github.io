@@ -1,4 +1,4 @@
-baseURL = 'https://bd7owk.github.io/'
-languageCode = 'zh-CN'
+baseURL = 'https://example.org/'
+locale = 'en-us'
 title = 'BD7OWK'
-theme = 'ananke'
+theme = ["github.com/D-Sketon/hugo-theme-reimu"]
