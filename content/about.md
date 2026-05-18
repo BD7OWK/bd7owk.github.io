@@ -53,17 +53,17 @@ lastmod: 2026-05-18T17:12:52+08:00
 
 ----
 
-## HELLO to whoever behind the screen DE BD7OWK
+## HELLO to whoever is behind the screen DE BD7OWK
 
-I'm appreciated to you, who is willing to visit and read this page! Welcome to my little shack and take a seat!
+Appreciated for you to be willing to visit and read this page! Welcome to my little shack and take a seat!
 
 Also, sorry for this messy billingual page, as I still need some time to figure out how this multi-language works. And sorry for the grammar or spelling mistakes, English is my second language.
 
 ### Primary hobbies
 
-I'm a 11th grade high school student from Shenzhen, China. Growing up surrounded by HAM radio, I'm really keen to these technical stuff like RF circuits, embedded system, Software Defined Radio, Vacuum tubes, Cassettes and so on. Although I'm pro in none of these, I'll get to it by some point. For now I'm more focusing on FPGA and SDR (Digital comms, radar and all that stuff), doing a handful of projects while learning and studying. I'm putting effort to becoming an open-source developer as well, but learning still takes a while.
+I’m an 11th-grade high school student from Shenzhen, China. Growing up surrounded by HAM radio, I’m really keen on these technical stuff like RF circuits, embedded systems, Software Defined Radio, Vacuum tubes, Cassettes and so on. Although I’m pro in none of these, I’ll get to it by some point. For now I’m more focusing on FPGA and SDR (Digital comms, radar and all that stuff), doing a handful of projects while learning and studying. I’m putting effort into becoming an open-source developer as well, but learning still takes a while.
 
-I will be updating these projects on github and/or this blog. Please share some of your valuable suggestions and experience if possible!
+I will be updating these projects on github and/or this blog. Please share some of your valuable suggestions and experiences if possible!
 
 #### HAM Radio
 
@@ -81,6 +81,6 @@ However, it is **STRONGLY RECOMMENDED** to listen to **Chilichill**, a band that
 
 #### OC
 
-Stands for 'Original caracter'. I make fictional characters, along with their stories and the world they are living in by drawing, writing novels and brainstorming. *~~Though I had 4 versions of it and none of these made me satisfied~~*  As you can see, most of the decorative images from my QRZ page and this blog are from my OC.
+Stands for 'Original character'. I make fictional characters, along with their stories and the world they are living in by drawing, writing novels and brainstorming. *~~Though I had 4 versions of it and none of these made me satisfied~~*  As you can see, most of the decorative images from my QRZ page and this blog are from my OC.
 
-Well, I always wanted to step further into it but they are always limited by my imagination. I sometimes thought how they will live as if the world was real, and imagine what they will do like my friends, *~~Maybe it's because I have no friends to chat with~~*, but I enjoyed it a lot. *~~wake up bro~~*
+Well, I always wanted to step further into it but they are always limited by my imagination. I sometimes thought about how they will live as if the world was real, and imagine what they will do like my friends, *~~Maybe it's because I have no friends to chat with~~*, but I enjoyed it a lot. *~~wake up bro~~*
