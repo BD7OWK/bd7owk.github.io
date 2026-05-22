@@ -1,10 +1,11 @@
 ---
 title: 欢迎来到OWKshack！
-cover: cover.webp
+cover: cover_intro.webp
 description: 介素自介条！～
 draft: false
 date: 2026-05-10T20:12:52+08:00
 lastmod: 2026-05-18T20:12:52+08:00
+weight: 1
 
 ---
 
