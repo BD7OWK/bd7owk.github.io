@@ -11,7 +11,7 @@ lastmod: 2026-05-23T01:18:00+08:00
 
 这个网站会分享本人爱好、生活相关之内容，包括但不限于业余无线电活动、电子技术项目、OC稿件及设定、日常生活等。
 
-关于自我介绍请访问：[自介条：https://bd7owk.github.io/first_post](https://bd7owk.github.io/first_post "https://bd7owk.github.io/first_post")
+关于自我介绍请访问：[自介条：https://bd7owk.github.io/post/intro](https://bd7owk.github.io/post/intro "https://bd7owk.github.io/post/intro")
 
 目前该网站暂处建设阶段，对站内发生的任何错误或不便我深感抱歉。若有意为本网站或其内容提供任何意见，可联系BD7OWK，我非常乐意接受意见和批评。
 
@@ -35,7 +35,7 @@ lastmod: 2026-05-23T01:18:00+08:00
 
 This website will be posting about my personal hobbies, including HAM radio activities, EE projects, OC commissions, daily life etc.
 
-For introduction, please visit: [https://bd7owk.github.io/first_post](https://bd7owk.github.io/first_post "https://bd7owk.github.io/first_post")
+For introduction, please visit: [https://bd7owk.github.io/post/intro](https://bd7owk.github.io/post/intro "https://bd7owk.github.io/post/intro")
 
 This website is still in the development stage, and thus may not work as expected. Please forgive the inconvenience. If you are willing to provide any suggestions to this website or the contents, feel free to contact BD7OWK for suggestions.
 
