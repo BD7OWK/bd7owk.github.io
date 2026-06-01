@@ -41,7 +41,7 @@ weight: 1
 
 #### 音乐
 
-入坑乐队/唱见/P主：chilichill（**激推！！！**）、泠鸢yousa、三无marblue、Hanser、Akie秋绘、术力口（ilem、evalia爱娃等等）*~~还有谁来着？~~*
+入坑乐队/唱见/P主：chilichill（**激推！！！**）、ZUTOMAYO（**激推！！！夜门！！！**）、泠鸢yousa、三无marblue、Hanser、Akie秋绘、术力口（ilem、evalia爱娃等等）*~~还有谁来着？~~*
 
 #### OC相关
 
