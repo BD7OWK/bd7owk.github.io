@@ -21,7 +21,7 @@ weight: 1
 
 ### 主要爱好
 
-我是一名深圳中学生，目前就读于高二，平时爱好 *~~极其~~* 广泛，主要喜欢搞业余无线电、oc、电子工程（射频、软件无线电（通信、雷达）、嵌入式（FPGA）、胆机、AI（机器学习、LLM）、磁带等等）*~~literally是小孩子不懂事做着玩的！！！~~*
+我是一名深圳中学生，目前就读于高三
 
 详细项目的内容我在有时间的时候会逐步release到博客文章和/或github里，欢迎各位监督及提出宝贵的意见！
 
@@ -42,6 +42,7 @@ weight: 1
 #### 音乐
 
 入坑乐队/唱见/P主：chilichill（**激推！！！**）、ZUTOMAYO（**激推！！！夜门！！！**）、泠鸢yousa、三无marblue、Hanser、Akie秋绘、术力口（ilem、evalia爱娃等等）*~~还有谁来着？~~*
+有时候可能弹弹吉他*~~（很烂就是了）~~*
 
 #### OC相关
 
@@ -61,11 +62,9 @@ Appreciated for you to be willing to visit and read this page! Welcome to my lit
 
 Also, sorry for this messy billingual page, as I still need some time to figure out how this multi-language works. And sorry for the grammar or spelling mistakes, English is my second language.
 
-### Primary hobbies
+### Introduction
 
-I’m an 11th-grade high school student from Shenzhen, China. Growing up surrounded by HAM radio, I’m really keen on these technical stuff like RF circuits, embedded systems, Software Defined Radio, Vacuum tubes, Cassettes and so on. Although I’m pro in none of these, I’ll get to it by some point. For now I’m more focusing on FPGA and SDR (Digital comms, radar and all that stuff), doing a handful of projects while learning and studying. I’m putting effort into becoming an open-source developer as well, but learning still takes a while.
-
-I will be updating these projects on github and/or this blog. Please share some of your valuable suggestions and experiences if possible!
+I am a High school student studying in Shenzhen with a range of hobbies. This blog will be sharing some of my works, findings and thoughts that I consider worth posting.
 
 #### HAM Radio
 
@@ -75,14 +74,3 @@ I don't operate very often, as there are very less chances for me to do HAM Radi
 
 Aside from technical stuff, I do other things as well, such as making OC and listening to some musics (Sometimes go to their live show as well) *~~After all this is a part of STEAM isnt it~~*
 
-#### Musics
-
-Basically I can't introduce much of it to you guys (foreign readers) because it's all in Chinese
-
-However, it is **STRONGLY RECOMMENDED** to listen to **Chilichill**, a band that I liked most. Their albums are available on Apple Music!
-
-#### OC
-
-Stands for 'Original character'. I make fictional characters, along with their stories and the world they are living in by drawing, writing novels and brainstorming. *~~Though I had 4 versions of it and none of these made me satisfied~~*  As you can see, most of the decorative images from my QRZ page and this blog are from my OC.
-
-Well, I always wanted to step further into it but they are always limited by my imagination. I sometimes thought about how they will live as if the world was real, and imagine what they will do like my friends, *~~Maybe it's because I have no friends to chat with~~*, but I enjoyed it a lot. *~~wake up bro~~*
